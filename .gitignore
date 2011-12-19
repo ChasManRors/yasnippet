@@ -2,6 +2,6 @@ authors.txt
 doc/gh-pages
 doc/*.html
 pkg/
-extras/imported/**
-!extras/imported/*/.yas_setup.el
+#extras/imported/**
+#!extras/imported/*/.yas_setup.el
 
