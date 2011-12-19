@@ -2,7 +2,7 @@
 # uuid: 996FEA3E-2255-4E7E-A551-BDA730D9E8B2
 # key: val.
 # contributor: Translated from textmate snippet by PROGRAM_NAME
-# name: validates
+# name: val. validates
 ## condition: "
 # --
 validates :${1:attribute}${2:,  :acceptance => ${3:true}}${4:,

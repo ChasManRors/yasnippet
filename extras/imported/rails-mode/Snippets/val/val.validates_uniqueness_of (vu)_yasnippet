@@ -2,7 +2,7 @@
 # uuid: F8316545-9AE4-4C7F-87ED-A2C00E6637FA
 # key: val.
 # contributor: Translated from textmate snippet by PROGRAM_NAME
-# name: validates_uniqueness_of
+# name: val. validates_uniqueness_of
 ## condition: "
 # --
 validates_uniqueness_of :${1:attribute}${2:, :on => :${3:create}, :message => "${4:must be unique}"}
