@@ -10,18 +10,17 @@ Python, Ruby, SQL, LaTeX, HTML, CSS and more. The snippet syntax is inspired fro
 
 Hand tweaked Ruby on Rails Snippets.
 
-
-The root for the hand tweaked snippets can be found at:
-
-    snippet / extras / imported / rails-mode / Snippets 
-
-This is a clone of the repository:
+This is a clone of the entire repository:
 
     $ git clone https://github.com/capitaomorte/yasnippet
 
 The program code in this repo is meant to be the same as that which appear in the capitalize respository.  No doubt they will get out of sync over time.
 
-I have used the yasnippet provided tool `extras/textmate-import.rb` to import DrNic's ruby on rails tmBundle.
+The root for the hand tweaked snippets can be found within at:
+
+    snippet / extras / imported / rails-mode / Snippets 
+
+I used the yasnippet provided tool `extras/textmate-import.rb` to import DrNic's Ruby on Rails tmBundle.
 I then went in and hand tweaked them to my liking.   
 
 **To install** I did the following:
@@ -29,7 +28,6 @@ I then went in and hand tweaked them to my liking.
 Followed the directions for installing yasnippets.
 
 Then get the snippets
-
 
     $ mkdir ~/github
     $ cd ~/github
