@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: Set up the next dates headers
+# key: do.
+# --
+* Do Nows `(insert-date)`
+** BIT BUCKET (Things I've abandoned ever going to do)
+*** 
+** BACKLOG (Things I need to get to eventually.  Check occasional to see item should be moved to current or bit bucket)
+*** 
+** CURRENT (What I am thinking about today)
+*** 
+** DO NOW (The item or two to get done today)
+*** 
+** DUE DATE
