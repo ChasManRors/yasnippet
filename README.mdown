@@ -14,7 +14,7 @@ This is a clone of the entire repository:
 
     $ git clone https://github.com/capitaomorte/yasnippet
 
-The program code in this repo is meant to be the same as that which appear in the capitalize respository.  No doubt they will get out of sync over time.
+The program code in this repo is meant to be the same as that which appear in the Capitaomorte respository.  No doubt they will get out of sync over time.
 
 The root for the hand tweaked snippets can be found within at:
 
@@ -27,7 +27,7 @@ I then went in and hand tweaked them to my liking.
 
 Followed the directions for installing yasnippets.
 
-Then get the snippets
+Then got my tweaked snippets
 
     $ mkdir ~/github
     $ cd ~/github
