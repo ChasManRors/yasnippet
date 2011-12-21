@@ -24,7 +24,8 @@ Followed the directions for installing yasnippets.
 
 Then get the snippets
 
-$ mkdir ~/github
+
+```$ mkdir ~/github
 $ cd ~/github
 $ git clone git@github.com:ChasManRors/yasnippet.git yasnippet-ChasManRors
 
@@ -42,4 +43,4 @@ You many need to loosen up the permissions on files you can always do something 
 $ cd ~/github/yasnippet-ChasManRors
 $ find . -type f -exec chmod 755 {} \;
 $ find . -type d -exec chmod 755 {} \;
-
+```
