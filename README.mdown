@@ -1,13 +1,19 @@
 # Intro
 
-Hand tweaked Ruby on Rails Snippets.
-
 **YASnippet** is a template system for Emacs. It allows you to type an
 abbreviation and automatically expand it into function
 templates. Bundled language templates includes: C, C++, C#, Perl,
 Python, Ruby, SQL, LaTeX, HTML, CSS and more. The snippet syntax is inspired from
 [TextMate's][textmate-snippets] syntax, you can even
 [import][import-docs] most TextMate templates to YASnippet.
+
+
+Hand tweaked Ruby on Rails Snippets.
+
+
+The root for the hand tweaked snippets can be found at:
+
+    snippet / extras / imported / rails-mode / Snippets 
 
 This is a clone of the repository:
 
