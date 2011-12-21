@@ -25,22 +25,22 @@ Followed the directions for installing yasnippets.
 Then get the snippets
 
 
-```$ mkdir ~/github
-$ cd ~/github
-$ git clone git@github.com:ChasManRors/yasnippet.git yasnippet-ChasManRors
+    $ mkdir ~/github
+    $ cd ~/github
+    $ git clone git@github.com:ChasManRors/yasnippet.git yasnippet-ChasManRors
 
-Then link the snippets
-$ cd ~/.emacs.d/snippets/
-$ ln -s     ~/github/yasnippet-ChasManRors                                      yasnippet
-$ ln -s     ~/github/yasnippet-ChasManRors/extras/imported/rails-mode/Snippets	rhtml-mode
-$ ln -s     ~/github/yasnippet-ChasManRors/extras/imported/html-mode/Snippets		html-mode
-$ ln -s     ~/github/yasnippet-ChasManRors/extras/imported/ruby-mode/Snippets		ruby-mode
-$ touch     .yas-make-groups
-$ echo "text-mode" > .yas-parents
+    Then link the snippets
+    $ cd ~/.emacs.d/snippets/
+    $ ln -s     ~/github/yasnippet-ChasManRors                                      yasnippet
+    $ ln -s     ~/github/yasnippet-ChasManRors/extras/imported/rails-mode/Snippets  rhtml-mode
+    $ ln -s     ~/github/yasnippet-ChasManRors/extras/imported/html-mode/Snippets   html-mode
+    $ ln -s     ~/github/yasnippet-ChasManRors/extras/imported/ruby-mode/Snippets   ruby-mode
+    $ touch     .yas-make-groups
+    $ echo "text-mode" > .yas-parents
 
-You many need to loosen up the permissions on files you can always do something like
+    You many need to loosen up the permissions on files you can always do something like
 
-$ cd ~/github/yasnippet-ChasManRors
-$ find . -type f -exec chmod 755 {} \;
-$ find . -type d -exec chmod 755 {} \;
-```
+    $ cd ~/github/yasnippet-ChasManRors
+    $ find . -type f -exec chmod 755 {} \;
+    $ find . -type d -exec chmod 755 {} \;
+
